@@ -8,9 +8,9 @@
 
   # you would pass vlan_config like this:
   # ---
-  net_vlan_config:
-   - name: bceaotest
-     vlan_id: 50
+    net_vlan_config:
+     - name: bceaotest
+       vlan_id: 50
   # - name: servers
   #   vlan_id: 10
 
