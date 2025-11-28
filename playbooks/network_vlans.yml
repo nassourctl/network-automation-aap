@@ -10,7 +10,7 @@
   # ---
     - net_vlan_config:
        - name: bceaotest
-         vlan_id: 50
+         vlan_id: 60
   # - name: servers
   #   vlan_id: 10
 
